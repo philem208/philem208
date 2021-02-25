@@ -1,5 +1,2 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=philem208&count_private=true&theme=default&show_icons=true&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philem208&hide=css,html,tex)](https://github.com/philem208/github-readme-stats)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=phipsmeister&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
